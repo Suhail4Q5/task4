@@ -66,8 +66,3 @@ Dependency on Internet: If using Google Speech-to-Text API, internet access is r
 
 This system provides a scalable and versatile base for further development into more advanced applications.
 *OUTPUT*:
-![Image](https://github.com/user-attachments/assets/15aeba07-60cc-423c-9216-8d98132062ef)
-
-![Image](https://github.com/user-attachments/assets/7c74db24-ddbb-49c0-89b4-ac2931d7f406)
-
-![Image](https://github.com/user-attachments/assets/e56657a6-a698-4f87-92ff-19f5b0fac37d)
