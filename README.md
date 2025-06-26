@@ -13,7 +13,7 @@
 
 *DESCRIPTION*:This project is a basic speech recognition-based device control system. It allows users to control hardware devices, such as LEDs or relays, by speaking predefined voice commands. Designed for embedded platforms, this system is simple, efficient, and ideal for home automation or basic IoT applications.
 
-Features
+**Features**
 Voice-Controlled Commands: Recognizes specific spoken phrases to perform actions like turning a device ON or OFF.
 
 Real-Time Execution: Continuously listens for voice commands and executes actions promptly.
@@ -22,12 +22,12 @@ Device Control: Operates devices connected to the GPIO pins of an embedded board
 
 User-Friendly Feedback: Provides console messages about the recognized command and its execution.
 
-Components and Tools
+**Components and Tools**
 Embedded Board: Raspberry Pi is used in the example, but the system can be adapted to other boards like Arduino or ESP32.
 
 Microphone: Captures audio input for speech recognition.
 
-Software Libraries:
+**Software Libraries:**
 
 SpeechRecognition: Converts spoken language into text.
 
@@ -50,14 +50,14 @@ Device Control:
 
 Executes the corresponding action, such as toggling an LED, based on the matched command.
 
-Applications
+**Applications**
 Home Automation: Control lights, fans, or other appliances using voice commands.
 
 Accessibility Solutions: Assists users with disabilities by offering hands-free device control.
 
 Educational Projects: Provides a foundation for learning about embedded systems, IoT, and speech recognition.
 
-Limitations
+**Limitations**
 Predefined Commands: Limited to recognizing specific phrases programmed into the system.
 
 Noise Sensitivity: Performance may degrade in noisy environments without preprocessing.
